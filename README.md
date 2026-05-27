@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Abraham 👋
 
-<!--
-**Abraham1598/Abraham1598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on Backend Development with Java and Spring Boot.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- Java
+- Spring Boot
+- React
+- REST APIs
+- MySQL
+- Docker
+- Git
+
+---
+
+## 💻 About Me
+
+- IBM Full Stack Certified
+- Focused on Backend Architecture
+- Building Full Stack Applications
+- Improving Java & Spring ecosystem skills
+- Learning English
+
+---
+
+## 🎯 Current Goals
+
+- Build professional portfolio projects
+- Strengthen backend development skills
+- Contribute to real-world applications
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/
+- GitHub: https://github.com/Abraham1598
