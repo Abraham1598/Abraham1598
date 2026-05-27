@@ -36,5 +36,6 @@ Full Stack Developer focused on Backend Development with Java and Spring Boot.
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/
+- LinkedIn: https://www.linkedin.com/in/abrahamcruzdev
+
 - GitHub: https://github.com/Abraham1598
